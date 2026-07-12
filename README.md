@@ -61,7 +61,7 @@ As I continue my coursework, I'll regularly add new concepts, practical implemen
 > *"Beautiful is better than ugly.*
 > *Explicit is better than implicit.*
 > *Simple is better than complex.*
-> *Readability counts."*
+> *Readability counts."*  
 > **— The Zen of Python, Tim Peters**
 
 ---
