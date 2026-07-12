@@ -57,8 +57,8 @@ Python-Verse is an evolving repository that documents my learning journey from P
 
 ---
 
->"Beautiful is better than ugly.
->Explicit is better than implicit.
->Simple is better than complex.
->Readability counts."
+>"Beautiful is better than ugly.  
+>Explicit is better than implicit.  
+>Simple is better than complex.  
+>Readability counts."  
 >— The Zen of Python, Tim Peters
