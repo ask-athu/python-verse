@@ -1,6 +1,6 @@
 # 🐍 Python-Verse
 
-> NAMAH PARVATI PATAYE HAR HAR MAHADEV
+> NAMAH PARVATI PATAYE HAR HAR MAHADEV  
 > A curated collection of Python implementations covering modern software development, automation, machine learning, artificial intelligence, deep learning, and Generative AI.
 > This repository documents my journey from Python fundamentals to building real-world AI-powered applications through structured modules, hands-on projects, and industry-standard coding practices.
 
