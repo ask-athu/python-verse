@@ -55,10 +55,11 @@ Python/
 
 Python-Verse is an evolving repository that documents my learning journey from Python fundamentals to modern AI technologies. As I progress through my coursework, I will continue expanding this repository with structured implementations, automation scripts, machine learning models, deep learning applications, and Generative AI projects.
 
----
 
 >"Beautiful is better than ugly.  
 >Explicit is better than implicit.  
 >Simple is better than complex.  
 >Readability counts."  
->— The Zen of Python, Tim Peters
+> — The Zen of Python, Tim Peters
+
+---
