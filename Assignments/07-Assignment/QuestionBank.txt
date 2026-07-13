@@ -1,0 +1,27 @@
+Python Assignment – 07
+
+1. What is the difference between local variables and global variables?
+
+2. Why should excessive use of global variables be avoided in large programs?
+
+3. Explain the use of the global keyword. When should it be used?
+
+4. What is the special variable __name__ in Python? Who assigns its value?
+
+5. What is the meaning of __main__ in Python execution?
+
+6. Can a function return another function? Explain conceptually.
+
+7. What is a module in Python? How is it different from a function?
+
+8. Explain what happens to __name__:
+   • When a Python file is executed directly
+   • When the same file is imported as a module
+
+9. Why do we write the condition:
+   if __name__ == "__main__":
+
+10. Explain the difference between:
+    • return x
+    • return x, y
+    • return

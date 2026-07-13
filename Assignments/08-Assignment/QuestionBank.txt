@@ -1,0 +1,23 @@
+```
+Python Assignment – 08
+
+1. Explain the steps to create and use a user-defined module.
+
+2. Why is indentation mandatory in Python while it is optional in languages like C, C++ or Java?
+
+3. What is an IndentationError? When does Python raise this error?
+
+4. What are the different ways to import a module? Which one is recommended and why?
+
+5. How does Python internally identify the start and end of a code block using indentation?
+
+6. Why is from module import * discouraged in professional code?
+
+7. How does modular programming improve code reusability, testing, and maintenance?
+
+8. What happens internally when Python executes an import module_name statement?
+
+9. What happens if a module contains print statements outside any function?
+
+10. Explain why Python modules are considered the foundation of scalable software design.
+```

@@ -1,33 +1,63 @@
-Python Assignment – 01
+Python Assignment – 04
 
-1. Who developed Python and why was it created? Explain one major difference between Python and C in terms of program execution.
+1. What is the difference between List and Tuple in Python?
+   Explain in terms of:
+   • Mutability
+   • Memory
+   • Performance
+   • Use cases
 
-2. Explain the Python build process starting from .py file to execution.
-   Mention the role of:
-   • Python Interpreter
-   • Bytecode
-   • PVM
+2. Why are tuples faster than lists?
+   In which real-world scenario would you prefer a tuple over a list?
 
-3. What is bytecode in Python?
-   Where is it stored and why does Python use it?
+3. Predict the output:
 
-4. Is Python a compiled language or an interpreted language?
-   Justify your answer with execution steps.
+   lst = [10, 20, 30]
+   tpl = (10, 20, 30)
 
-5. What is the purpose of the __pycache__ folder?
+   lst[0] = 100
+   tpl[0] = 100
 
-6. Python is called a dynamically typed language.
-   Explain this with a short code example.
+   Which line will raise an error and why?
 
-7. Explain why Python is considered:
-   • Platform independent
-   • Portable
+4. Explain why strings are immutable in Python.
+   What happens internally when you modify a string variable?
 
-8. What do you understand by "Indentation-specific language"?
-   Why is indentation mandatory in Python?
+5. Predict the output:
 
-9. What will happen if indentation is not maintained properly?
-   Explain with a small code snippet.
+   s = "Python"
+   print(id(s))
 
-10. Python supports multiple programming paradigms.
-    Name any three paradigms and explain one in brief.
+   s = s + "3"
+   print(id(s))
+
+   Explain the reason for change / no change in id().
+
+6. What is a dictionary in Python?
+   Explain:
+   • Key–value pair
+   • Why keys must be immutable
+   • Why duplicate keys are not allowed
+
+7. Predict the output:
+
+   d = {1: "One", 1: "ONE", 2: "Two"}
+   print(d)
+
+   Why does this happen?
+
+8. What is the range data type in Python?
+   How is it different from a list of numbers?
+
+9. Predict the output:
+
+   r = range(5)
+   print(r)
+   print(list(r))
+
+10. What is the difference between:
+
+    range(1, 10)
+    range(1, 10, 2)
+
+    Explain the parameters.

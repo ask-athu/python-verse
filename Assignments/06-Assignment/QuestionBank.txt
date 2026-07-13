@@ -1,0 +1,26 @@
+Python Assignment – 06
+
+1. What is a user-defined function in Python?
+   Why do we need functions instead of writing code repeatedly?
+
+2. Explain the syntax of a function definition using the def keyword.
+   Why is the colon (:) mandatory?
+
+3. What is the importance of indentation inside a function body?
+   What happens if indentation is incorrect?
+
+4. Differentiate between calling a function and defining a function with a simple explanation.
+
+5. Can a Python function exist without any statements inside its body?
+   If yes, how?
+
+6. What is the role of the pass statement in a function definition?
+
+7. What is the difference between parameters and arguments in Python functions?
+
+8. What happens if the number of arguments passed does not match the function parameters?
+
+9. What is a return value in a function?
+
+10. Can a Python function return multiple values?
+    If yes, how does Python handle it internally?
