@@ -1,0 +1,33 @@
+Python Assignment – 01
+
+1. Who developed Python and why was it created? Explain one major difference between Python and C in terms of program execution.
+
+2. Explain the Python build process starting from .py file to execution.
+   Mention the role of:
+   • Python Interpreter
+   • Bytecode
+   • PVM
+
+3. What is bytecode in Python?
+   Where is it stored and why does Python use it?
+
+4. Is Python a compiled language or an interpreted language?
+   Justify your answer with execution steps.
+
+5. What is the purpose of the __pycache__ folder?
+
+6. Python is called a dynamically typed language.
+   Explain this with a short code example.
+
+7. Explain why Python is considered:
+   • Platform independent
+   • Portable
+
+8. What do you understand by "Indentation-specific language"?
+   Why is indentation mandatory in Python?
+
+9. What will happen if indentation is not maintained properly?
+   Explain with a small code snippet.
+
+10. Python supports multiple programming paradigms.
+    Name any three paradigms and explain one in brief.
