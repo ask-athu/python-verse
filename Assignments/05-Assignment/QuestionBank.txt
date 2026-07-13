@@ -1,0 +1,47 @@
+Python Assignment – 05
+
+1. What are bytes in Python?
+   Why are they immutable?
+
+2. Predict the output:
+
+   b = bytes([65, 66, 67])
+   print(b)
+
+   Explain how numbers are converted internally.
+
+3. What is the difference between bytes and bytearray?
+   Mention mutability and use cases.
+
+4. Predict the output:
+
+   ba = bytearray([65, 66, 67])
+   ba[0] = 97
+   print(ba)
+
+   Why is this allowed?
+
+5. What is None in Python?
+   Is it the same as 0, False, or empty string?
+
+6. Predict the output:
+
+   x = None
+   print(type(x))
+   print(x == False)
+
+   Explain the result.
+
+7. What is the Boolean data type in Python?
+   List all values that evaluate to False.
+
+8. What is a set in Python?
+
+9. Predict the output:
+
+   s = {10, 20, 30, 10, 20}
+   print(s)
+
+   Why are some values missing?
+
+10. What is dynamic typing in Python?

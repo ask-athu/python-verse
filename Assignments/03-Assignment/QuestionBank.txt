@@ -1,0 +1,67 @@
+Python Assignment – 03
+
+1. What is a user-defined function?
+   Write a function to accept two numbers and return their multiplication.
+
+2. What is the difference between:
+   • Function with parameters
+   • Function without parameters
+
+   Give one example of each.
+
+3. Predict the output:
+
+   def fun():
+       x = 10
+       print(x)
+
+   fun()
+   print(x)
+
+   Explain the reason.
+
+4. Write a function that does not return anything but prints a message.
+   Explain the default return value of such a function.
+
+5. What is the difference between:
+   • print()
+   • return
+
+   Explain with a function example.
+
+6. Write a program to display:
+   • Data type
+   • Memory address
+   • Size in bytes
+
+   of a variable entered by the user.
+
+7. Predict the output:
+
+   a = 5
+   print(type(a))
+
+   a = 5.5
+   print(type(a))
+
+   a = "Python"
+   print(type(a))
+
+   What Python feature does this demonstrate?
+
+8. Explain why the following code works without declaration:
+
+   x = 100
+
+   Compare this with C or Java.
+
+9. What is the difference between:
+
+   x = 10
+
+   x = "Ten"
+
+   Is this allowed? Why?
+
+10. Explain how Python manages memory automatically.
+    Why does the programmer not need to explicitly allocate or free memory?
