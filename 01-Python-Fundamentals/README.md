@@ -4,8 +4,6 @@ Learn Python from scratch.
 
 ### Topics
 
-- Python History & Features
-- Installation & Environment Setup
 - First Python Program
 - Variables & Data Types
 - Operators
@@ -20,6 +18,5 @@ Learn Python from scratch.
 - Sets
 - Dictionaries
 - Strings
-- Arrays
 - File Handling
 - Command-Line Arguments
