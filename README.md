@@ -31,11 +31,13 @@ Python/
 ├── 04-Data-Science
 ├── 05-Artificial-Intelligence
 ├── 06-Machine-Learning
-├── 07-ML-Case-Studies
+├── 07-ML-Projects
 ├── 08-Python-Automation
 ├── 09-Deep-Learning
 ├── 10-Generative-AI
 ├── 11-GenAI-Projects
+│
+└── Assignments
 │
 └── README.md
 ```
