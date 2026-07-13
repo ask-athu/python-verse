@@ -1,0 +1,21 @@
+Python Assignment – 15
+
+1. Write a lambda function which accepts one number and returns square of that number.
+
+2. Write a lambda function which accepts one number and returns cube of that number.
+
+3. Write a lambda function which accepts two numbers and returns maximum number.
+
+4. Write a lambda function which accepts two numbers and returns minimum number.
+
+5. Write a lambda function which accepts one number and returns True if number is even otherwise False.
+
+6. Write a lambda function which accepts one number and returns True if number is odd otherwise False.
+
+7. Write a lambda function which accepts one number and returns True if divisible by 5.
+
+8. Write a lambda function which accepts two numbers and returns addition.
+
+9. Write a lambda function which accepts two numbers and returns multiplication.
+
+10. Write a lambda function which accepts three numbers and returns largest number.
