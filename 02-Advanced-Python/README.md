@@ -13,4 +13,3 @@ Explore advanced language features used in professional applications.
 - Lambda Expressions
 - map(), filter(), reduce()
 - Exception Handling
-- Special Variables (`__name__`, `__main__`)
