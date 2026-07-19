@@ -101,7 +101,7 @@ This repository exists to:
 
 ## Philosophy
 
-> *Python's design favors clarity over cleverness — explicit, simple, readable code, held to a higher standard than code that merely works.*
+> *Python's design favors clarity over cleverness — explicit, simple, readable code, held to a higher standard than code that merely works.*  
 > **— inspired by The Zen of Python, Tim Peters**
 
 ---
