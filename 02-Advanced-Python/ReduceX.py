@@ -1,4 +1,3 @@
-# MapX -> bcuz there might exist an inbuild module with name Filter.py
 # Input dataset[] -> List -> Filters (Removes Odd Numbers) -> Stores Result Set in Fdata[] (new list) -> Map FData (Add 1) -> Stores in Mdata[]
 # MData -> Reduce (Summation) -> stores in RData    
 
