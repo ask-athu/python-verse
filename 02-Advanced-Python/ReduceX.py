@@ -28,6 +28,3 @@ def main () :
 
 if (__name__ == "__main__") :
     main ()
-
-
-# NOTE : 1st Parameter of filter function (here checkEven) MUST ALWAYS return bool
