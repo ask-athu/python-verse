@@ -1,5 +1,7 @@
 import time 
 
+# Using format specifier !!
+
 def main () :
     iValue = int (input ("Enter number to check factorial : "))
 
